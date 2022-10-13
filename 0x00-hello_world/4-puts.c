@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * The porgream print use puts fun
  * Nah
  */
