@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * The porgream print use puts fun
- * Nah
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
