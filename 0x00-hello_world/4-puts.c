@@ -1,6 +1,7 @@
 #include <stdio.h>
 /*
- *The porgream print use puts fun
+ * The porgream print use puts fun
+ * Nah
  */
 int main(void)
 {
