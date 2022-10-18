@@ -1,4 +1,5 @@
 #include <unistd.h>
+#include "holberton.h"
 
 /**
  * main - Check description
@@ -11,9 +12,9 @@ int main(void)
 	int i;
 
 	for (i = 0; i < 9; i++)
-		putchar(word[i]);
+		_putchar(word[i]);
 	
-	putchar('\n');
+	_putchar('\n');
 
 	return (0);
 }
